@@ -12,20 +12,4 @@ Our online and offline events provide a platform for members to discuss technolo
 
 We believe that a strong community is key to success in any field, and our mission is to empower and inspire Pasifika tech professionals to reach their full potential.
 
-Join us today and become part of a community that celebrates your heritage and supports your career in technology.
-
-## Join the Network
-
-:::tip Join
-
-Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
-
-:::
-
-## Mailing List
-
-:::info Sign Up
-
-Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
-
-:::
+**[Join us](/docs/join)** today and become part of a community that celebrates your heritage and supports your career in technology.
