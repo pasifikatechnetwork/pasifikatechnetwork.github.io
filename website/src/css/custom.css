@@ -1,0 +1,146 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #010d2e;
+  --ifm-color-primary-dark: #12355d;
+  --ifm-color-primary-darker: #03478b;
+  --ifm-color-primary-darkest: #010409;
+  --ifm-color-primary-light: #ededed;
+  --ifm-color-primary-lighter: #ededed;
+  --ifm-color-primary-lightest: #ededed;
+  --ifm-color-secondary: #d4d4d4;
+  --ifm-color-secondary-dark: #ededed;
+  --ifm-color-secondary-darker: #d4d4d4;
+  --ifm-color-secondary-darkest: #010d2e;
+  --ifm-color-secondary-light: #adadad;
+  --ifm-color-secondary-lighter: #d4d4d4;
+  --ifm-color-secondary-lightest: #ededed;
+  --ifm-navbar-background-color: #010d2e;
+  --ifm-background-color: #ededed;
+  --ifm-color-success: #0351a3;
+  --ifm-color-warning: #7d8597;
+  --ifm-color-danger: #da1e37;
+  --ifm-link-color: #035bb4;
+  --ifm-code-font-size: 95%;
+}
+
+html[data-theme='dark'] {
+  --ifm-color-primary: #0353a4;
+  --ifm-color-primary-dark: #034b94;
+  --ifm-background-color: #010d2e;
+  --ifm-footer-background-color: #010d2e;
+  /* --ifm-font-color-base-inverse: #8b949e; */
+  /* any other colors you wish to overwrite */
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.textUpper {
+  text-transform: uppercase;
+}
+
+.colorSuccess {
+  color: var(--ifm-color-success);
+}
+
+.colorWarning {
+  color: var(--ifm-color-warning);
+}
+
+.colorDanger {
+  color: var(--ifm-color-danger);
+}
+
+.bgColorSuccess {
+  background-color: var(--ifm-color-success);
+}
+
+.bgColorDanger {
+  background-color: var(--ifm-color-danger);
+}
+
+.underlineColorSuccess {
+  border-bottom: 4px solid var(--ifm-color-success);
+}
+
+.underlineColorWarning {
+  border-bottom: 4px solid var(--ifm-color-warning);
+}
+
+.underlineColorDanger {
+  border-bottom: 4px solid var(--ifm-color-danger);
+}
+
+.admonition a,
+.admonition a:hover {
+  color: var(--ifm-alert-color);
+  text-decoration: underline;
+}
+
+.wideBodyMaxWidth {
+  max-width: 640px;
+}
+
+.contentTableContainer table {
+  display: table;
+  text-align: left;
+  width: 100%;
+  margin: 0;
+}
+
+.contentTableContainer th:first-child {
+  width: 5%;
+}
+
+.contentTableContainer td:first-child {
+  text-align: right;
+}
+
+.contentTableContainer th:last-child {
+  width: 25%;
+}
+
+@media screen and (max-width: 966px) {
+  h1 {
+    font-size: 2.4rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+}
