@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Pasifika Tech Network Blog</title>
+        <link>https://pasifikatechnetwork.github.io/blog</link>
+        <description>Pasifika Tech Network Blog</description>
+        <lastBuildDate>Mon, 25 Mar 2024 07:46:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://pasifikatechnetwork.github.io/blog/welcome</link>
+            <guid>https://pasifikatechnetwork.github.io/blog/welcome</guid>
+            <pubDate>Mon, 25 Mar 2024 07:46:31 GMT</pubDate>
+            <category>facebook</category>
+            <category>hello</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>

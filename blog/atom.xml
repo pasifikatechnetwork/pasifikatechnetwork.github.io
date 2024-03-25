@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pasifikatechnetwork.github.io/blog</id>
+    <title>Pasifika Tech Network Blog</title>
+    <updated>2024-03-25T07:46:31.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pasifikatechnetwork.github.io/blog"/>
+    <subtitle>Pasifika Tech Network Blog</subtitle>
+    <icon>https://pasifikatechnetwork.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://pasifikatechnetwork.github.io/blog/welcome</id>
+        <link href="https://pasifikatechnetwork.github.io/blog/welcome"/>
+        <updated>2024-03-25T07:46:31.000Z</updated>
+        <category label="facebook" term="facebook"/>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
